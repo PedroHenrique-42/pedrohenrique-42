@@ -8,7 +8,7 @@
 </div>
 
 - 👀 I’m interested in front and back-end development.
-- 🌱 I’m currently learning React, Node and TypeScript.
+- 🌱 I’m currently learning Java.
 
  ## 
  <div>
