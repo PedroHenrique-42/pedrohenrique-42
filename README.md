@@ -1,4 +1,4 @@
-## Hi, I’m Pedro, a front-end developer. 🐱‍👤
+## Hi, I’m Pedro, a mobile developer. 🐱‍👤
 
 <div align="center">
   <a href="https://github.com/pedrohenrique-42">
@@ -7,8 +7,8 @@
   </a>
 </div>
 
-- 👀 I’m interested in front and back-end development.
-- 🌱 I’m currently learning Java && Flutter.
+- 👀 I’m interested in mobile and back-end development.
+- 🌱 I’m currently learning Android.
 
  ## 
  <div>
