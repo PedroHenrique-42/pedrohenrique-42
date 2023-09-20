@@ -1,4 +1,4 @@
-## Hi, I’m Pedro, a mobile developer. 🐱‍👤
+## Hi, I’m Pedro, a mobile developer.
 
 <div align="center">
   <a href="https://github.com/pedrohenrique-42">
